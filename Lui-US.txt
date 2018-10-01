@@ -1,0 +1,5 @@
+1. As an advanced player, I want to be able to play with multiple balls, so that the game will be a greater challenge.
+
+2. As a user, I want the game to have a pause button, so that I can pause the game and come back to it later when something comes up.
+
+3. As a user, I want a game over screen, so that I know when I lose.

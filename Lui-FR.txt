@@ -1,0 +1,5 @@
+1. The system shall provide a pause button that will switch between pausing the game and running the game.
+
+2. The system shall display the game over screen when all balls have dropped below the paddle.
+
+3. The system shall spawn in a ball every random interval between 30-90 seconds.
