@@ -1,0 +1,5 @@
+The system shall provide a main screen with buttons to other screens.
+The system shall provide buttons which are navigable to other screens.
+The system shall provide a settings screens which allow users to edit aspects of the user experience with the use of buttons and sliders.*
+
+*See settings requirements for specific functionality.

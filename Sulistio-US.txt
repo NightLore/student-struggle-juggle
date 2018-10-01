@@ -1,0 +1,3 @@
+As a colorblind player, I want colorblind options, so I can properly see the game graphics.
+As a beginner player, I want a how to guide, so I can learn how to play the game.
+As a competitive player, I want a leader board, so I can compare myself to my friends.
