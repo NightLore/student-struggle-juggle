@@ -1,0 +1,3 @@
+The system shall provide a toggleable setting that switches between the system’s sounds being on or being off.
+The system shall provide a toggleable setting that switches the system’s color palette between the default colors and colorblind colors.
+The system shall provide a toggleable setting that controls whether or not the tutorial screen displays before the game screen does when the user starts the game.

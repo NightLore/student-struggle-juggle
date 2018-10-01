@@ -1,0 +1,3 @@
+As a competitive gamer, I want a high score board, so that I can brag to other players.
+As a creative individual, I want the ability to import images to use as objects, so that I can use custom objects in the game.
+As a gamer, I want power ups and debuffs in the game, so that I can I further enjoy the game.
