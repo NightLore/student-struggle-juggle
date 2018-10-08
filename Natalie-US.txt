@@ -1,0 +1,7 @@
+Natalie Miller
+CSC 307
+September 24th, 2018
+User Stories
+As a player, I want to understand the goal of the game, so I don’t play with the wrong goal and get stuck on a level because of misunderstanding.
+As a student, I want a way to visualized my struggles when playing the game, so it helps me distress, so I feel more understood in my student time schedule, and so I feel there is more purpose to the game.
+As a beginner, I want to have a settings and directions page that I can reference, so I never feel lost and can learn quickly.

@@ -1,0 +1,11 @@
+CSC 307
+September 26th, 2018
+
+Functional Requirements Assignment
+
+The system shall provide score messages after every game. 
+
+The system shall display a settings button for the user to click. 
+
+The software shall provide a holding screen after five minuets of inactivity while the game is open. 
+
